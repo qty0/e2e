@@ -3,6 +3,7 @@
 ```
 npm install
 npm install --save-dev chai
+npm uw
 ```
 
 ### Start Webdriver Manager (if you set directConnect to false) 
