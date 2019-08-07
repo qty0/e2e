@@ -2,7 +2,6 @@
 
 ```
 npm install
-npm install --save-dev chai
 npm uw
 ```
 
