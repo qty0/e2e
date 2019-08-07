@@ -15,7 +15,7 @@ npm run start-webdriver
 ### Run Protractor (in another terminal window)
 
 ```
-npm run protractor
+npm run pro
 ```
 
 
