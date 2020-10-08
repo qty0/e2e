@@ -1,5 +1,7 @@
 # Boilerplate for making Selenium-Protractor e2e test cases with CucumberJS
 
+The example test case will go to google translate and check for the correct translation of a given word
+
 
 ### Install:
 ### Dependencies
