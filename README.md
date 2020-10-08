@@ -1,4 +1,8 @@
-### Install Dependencies
+# Boilerplate for making Selenium-Protractor e2e test cases with CucumberJS
+
+
+### Install:
+### Dependencies
 
 ```
 npm install
